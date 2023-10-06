@@ -1,0 +1,15 @@
+{
+  "name": "ecmascript-course",
+  "version": "1.0.0",
+  "description": "Exercises of the course ECMAScript: History and Versions of JavaScript - Platzi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "ecmascript"
+  ],
+  "author": "Antonio Mateos Mariscal <contacto@antoniomateosmariscal.com>",
+  "license": "MIT"
+}
