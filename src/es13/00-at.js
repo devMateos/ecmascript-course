@@ -5,4 +5,4 @@ const array = ['one', 'two', 'three', 'four', 'five', 'six'];
 console.log(array[array.length - 1]);
 
 // Con el método at podemos hacerlo así:
-console.log(array.flat(-1));
+console.log(array.at(-1));

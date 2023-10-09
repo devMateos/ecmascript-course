@@ -2,5 +2,5 @@
 // Para estandarizar el objeto global se creó globalThis, un objeto compatible para cualquier plataforma
 console.log(window);    // Navegador
 console.log(global);    // node
-console.log(selft);     // webworker
+console.log(self);     // webworker
 console.log(globalThis);

@@ -7,8 +7,8 @@ const anotherFunction = () => {
     })
 }
 
+// Con ES9 se agrega finnally, que permite tener una función anónima que realice algo cuando termine la promesa
 anotherFunction()
     .then(response => console.log(response))
     .catch(err => console.log(err))
-    // Con ES9 se agrega finnlly, que permite tener una función anónima que realice algo cuando termine la promesa
     .finally(() => console.log('Finally'));

@@ -3,7 +3,7 @@ let numbers = [1, 3, 4, 6, 7, 8];
 console.log(numbers.includes(4));
 console.log(numbers.includes(5));
 
-// El segundo pa´rametro indica el índice inicial desde donde comparar hasta el último elemento
+// El segundo parámetro indica el índice inicial desde donde comparar hasta el último elemento
 const list = ['Óscar', 'David', 'Ana'];
 console.log(list.includes('Óscar', 1));
 

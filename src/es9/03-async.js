@@ -1,5 +1,5 @@
 // Generadores asíncronos
-// Los generados asíncronos son semejantes a los generadores que ya conoces, pero combinando sintáxis de promesas.
+// Los generadores asíncronos son semejantes a los generadores que ya conoces, pero combinando sintáxis de promesas.
 async function* anotherGenerator() {
     yield await Promise.resolve(1);
     yield await Promise.resolve(2);
