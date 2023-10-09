@@ -5,7 +5,7 @@ const newUser = new User();
 
 
 class user {
-    // Pódemos agregar métodos a las clases
+    // Podemos agregar métodos a las clases
     greeting() {
         return 'Hello';
     }
