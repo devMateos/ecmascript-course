@@ -11,5 +11,6 @@
     "ecmascript"
   ],
   "author": "Antonio Mateos Mariscal <contacto@antoniomateosmariscal.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module"
 }
